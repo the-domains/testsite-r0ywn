@@ -6,9 +6,9 @@ color:
   saturation: 0.09898347058333457
   rhythmicContrast: 0.4779021155554801
   brandColors:
-    - '#B9121B'
-    - '#4C1B1B'
-    - '#F6E497'
-    - '#FCFAE1'
-    - '#BD8D46'
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
 name: Testsite
